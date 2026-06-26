@@ -20,7 +20,7 @@ class VoterRegistry {
 }
 
 // STEP : Handling the Exception
-public class CustomExceptions {
+public class CustomCheckedExceptions {
     public static void main (String[] args){
         VoterRegistry vr = new VoterRegistry();
         try{
